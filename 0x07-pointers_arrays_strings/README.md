@@ -6,4 +6,7 @@ Most common C standard library functions to manipulate string.
 
 PROJECTS
 
-- 0-memset.c-function that fills memory with a constant byte
+Main.h-Contains the prototypes of all the used functions and the prototype of the function _putchar.
+
+- 0-memset.c-function that fills memory with a constant byte.
+
